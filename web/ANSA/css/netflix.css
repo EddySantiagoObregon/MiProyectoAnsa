@@ -1,0 +1,83 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 07-ago-2019, 12:51:52
+    Author     : MANYOMA
+*/
+
+
+#principal{
+    margin: 0 auto;
+    width:  80%;
+    
+}
+
+nav {
+   
+    height: 50px; 
+    width : 90%;
+     background-color: black;
+     color: white;
+      
+  
+     
+   
+}
+section{
+    height: 200px; 
+    width : 90%;
+    
+}
+    
+
+footer {
+     height: 60px; 
+     width : 90%;
+     background-color: black;
+     color: white;
+     
+    
+}
+details{
+    float: left;
+    height: 20px;
+    width:  30%;
+}
+table {
+    background-color: red;
+    margin-left :400px;
+    
+}
+#colorblanco{
+    background-color: white;
+}
+* {
+  box-sizing: border-box;
+}
+
+.img-container {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+font {
+    float: left;
+}
+section {
+    
+}
+div {
+     background-color: black;
+     width : 100%;  
+     
+}
